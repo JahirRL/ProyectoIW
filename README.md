@@ -9,6 +9,13 @@ El proyecto consiste en la creación de una aplicación web que en su diseño co
 Y crear los modelos correspondientes, para más detalles consultar el archivo del proyecto en: 
 > ../ProyectoIW/docs/Proyecto.pdf
 
+## Notas ##
+
+* Para ejecutar el programa es necesario contar con:
+    * Apache
+    * MySQL
+    * PHP
+
 ## Instalación ##
 Al cumplir con los requisitos anteriores es necesario:
 1. Pasar el archivo a la carpeta localhost correspondiente de Apache
@@ -18,13 +25,6 @@ Al cumplir con los requisitos anteriores es necesario:
     3. `\q`
     4. `mysql -u root -p proyectoiw < proyectoiw.sql`
     ![](/img/capturas/IBD.png)
-
-## Notas ##
-
-* Para ejecutar el programa es necesario contar con:
-    * Apache
-    * MySQL
-    * PHP
 
 ## Base de datos ##
 
